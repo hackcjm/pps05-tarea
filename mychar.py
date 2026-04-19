@@ -10,6 +10,7 @@ Autor: José María García Moreno
 Fecha: 5/10/2025
 Curso: Puesta en producción segura
 Tarea: UD01 - Prueba de aplicaciones web y para dispositivos móviles
+Cambio para la rama desarrollo seguro
 """
 from typing import List
 
