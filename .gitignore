@@ -1,0 +1,12 @@
+# Logs
+*.log
+
+# Entornos virtuales
+.venv/
+env/
+
+# Python cache
+__pycache__/
+
+# Bases de datos
+*.sqlite3
